@@ -10,7 +10,7 @@ El repositorio consta de:
 -Gif que muestra el funcionamiento del programa
 
 # Resultado final
-Modo 1 del programa: 
+
 ![alt text](https://github.com/Crisyaki/ProcessingPianoVideo/blob/master/ejemploVisual.gif)
 
 
